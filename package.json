@@ -1,0 +1,22 @@
+{
+  "name": "fs-io",
+  "version": "1.0.0",
+  "description": "Practicing reading and writing to files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "`npm bin`/jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wbeck32/fs-io.git"
+  },
+  "author": "Wendy Beck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wbeck32/fs-io/issues"
+  },
+  "homepage": "https://github.com/wbeck32/fs-io",
+  "dependencies": {
+    "jasmine": "^2.1.1"
+  }
+}
